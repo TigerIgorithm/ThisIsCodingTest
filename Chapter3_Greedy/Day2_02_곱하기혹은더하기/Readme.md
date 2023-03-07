@@ -27,11 +27,5 @@
   |           Model           |  accuracy |       recall       |      precision     |      f1 score      |         Optimal Strategy       |
   |---------------------------|:----------|:-------------------|:-------------------|:-------------------|:-------------------------------|
   | Logistic Regression       |   0.67    |                    |                    |                    | RobustScaler                   |
-  | KNN                       |   0.79    |                    |                    |                    | RobustScaler                   |
-  | **Random Forest**         |   0.88    | 0.97 / 0.83 / 0.70 | 0.86 / 0.94 / 0.93 | 0.92 / 0.88 / 0.80 | Stratified KFold, RobustScaler |
-  | AdaBoost                  |   0.88    |                    |                    |                    | Stratified KFold               |
-  | XGB                       |   0.87    |                    |                    |                    | Stratified KFold               |
-  | LGBM                      |   0.87    |                    |                    |                    | Stratified KFold               |  
-  | CatBoost                  |   0.87    |                    |                    |                    | Stratified KFold               |  
-  | **RF learned Latent Vec** |   0.87    | 0.97 / 0.71 / 0.68 | 0.85 / 0.99 / 0.92 | 0.91 / 0.83 / 0.78 | Stratified KFold               |  
-  | **RF + ConAE**            |   0.88    | 0.97 / 0.84 / 0.70 | 0.86 / 0.92 / 0.92 | 0.91 / 0.88 / 0.79 | Stratified KFold               |  
+
+
