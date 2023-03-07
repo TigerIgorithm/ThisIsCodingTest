@@ -10,7 +10,8 @@
 
 <br>
 예를 들어 3 x 3 형태로 카드들이 다음과 같이 놓여 있다고 가정하자.
-![문제](https://user-images.githubusercontent.com/87516405/223457585-c233d5f5-ae3d-4643-bf7a-5a8acfc3249c.png)
+
+![문제](https://user-images.githubusercontent.com/87516405/223458228-c8755097-cce9-40d2-8a36-456daf114082.png)
 
 여기서 카드를 골라낼 행을 고를 때 첫 번째 혹은 두 번째 행을 선택하는 경우, 최종적으로 뽑는 카드는 1이다. 
 하지만 세 번째 행을 선택하는 경우 최종적으로 뽑는 카드는 2이다. 
