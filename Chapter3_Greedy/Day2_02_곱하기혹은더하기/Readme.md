@@ -24,8 +24,8 @@
 567|210
 
 ## test
-  |           Model           |  accuracy |       recall       |      precision     |      f1 score      |         Optimal Strategy       |
-  |---------------------------|:----------|:-------------------|:-------------------|:-------------------|:-------------------------------|
-  | Logistic Regression       |   0.67    |                    |                    |                    | RobustScaler                   |
+  |           Model           |  accuracy |
+  |---------------------------|:----------|
+  | Logistic Regression       |   0.67    |
 
 
