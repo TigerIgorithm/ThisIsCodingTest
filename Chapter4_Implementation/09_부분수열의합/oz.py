@@ -4,8 +4,8 @@ arr = list(map(int,input().split()))
 
 count = 0
 
-for i in range(2,len(arr)):
-    li = list(combinations(arr,i))
+for i in range(1,len(arr)+1):
+    li = combinations(arr,i)
     for a in li:
         if sum(a)== m:
             count +=1
