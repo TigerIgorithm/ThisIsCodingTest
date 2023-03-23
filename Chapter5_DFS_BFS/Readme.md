@@ -6,7 +6,7 @@
   | oz      |           |           |            |              |         |          |           |         
   | tldud   |      ✅     |   ✅        |            |              |         |          |           |       
   | yedam   |           |           |            |              |         |          |           |        
-  | seoyeon |           |           |            |              |         |          |           |            
+  | seoyeon |        ✅   |           |            |              |         |          |           |            
 
 1. 반복수열(2331) [실버4] - https://www.acmicpc.net/problem/2331
 2. 바이러스(2606) [골드4] - https://www.acmicpc.net/problem/2606
