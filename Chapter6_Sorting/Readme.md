@@ -12,3 +12,4 @@
 
 11651번: https://www.acmicpc.net/problem/11651
 
+1431번: https://www.acmicpc.net/problem/1431
