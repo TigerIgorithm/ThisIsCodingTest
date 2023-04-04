@@ -1,0 +1,1 @@
+10814번: https://www.acmicpc.net/problem/10814

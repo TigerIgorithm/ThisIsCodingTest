@@ -1,0 +1,1 @@
+25305번: https://www.acmicpc.net/problem/25305
