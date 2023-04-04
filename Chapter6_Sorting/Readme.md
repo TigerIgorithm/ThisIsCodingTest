@@ -12,4 +12,3 @@
 
 11651번: https://www.acmicpc.net/problem/11651
 
-17140번: https://www.acmicpc.net/problem/17140
